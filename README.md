@@ -29,7 +29,9 @@ Users can see their total score and percentage of correct answers, allowing them
 * Object-Oriented Design: The quiz application is built using OOP concepts in C#, encapsulating the question types and their behaviors within classes. This modular design enhances code maintainability and scalability.
 * Dynamic Question Display: The application dynamically loads and displays questions from a predefined set, ensuring a varied and comprehensive testing experience.
 * Answer Validation: Robust mechanisms are implemented to check the correctness of user responses and provide accurate feedback.
-* Outcome: The Interactive Quiz Application is a testament to the effective use of OOP principles in creating educational software. It offers an engaging and effective way for users to test and improve their knowledge on various topics, with immediate feedback and comprehensive scoring.
+
+## Outcome
+The Interactive Quiz Application is a testament to the effective use of OOP principles in creating educational software. It offers an engaging and effective way for users to test and improve their knowledge on various topics, with immediate feedback and comprehensive scoring.
 
 ## Tools & Technologies:
 
